@@ -60,5 +60,6 @@ Please format your code before creating a pull-request:
 
     vendor/bin/php-cs-fixer fix --level psr2 .
 
+
 ### Special Thanks
 This package used [AndreasHeiberg/laravel-messenger](https://github.com/AndreasHeiberg/laravel-messenger) as a starting point.
